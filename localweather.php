@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Geolocation</title>
+    <title>Local Weather App</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <link rel="stylesheet" type="text/css" href="css/localweather.css">
   </head>
   <body>
-    <header><h3><a href="http://byunsta.co" target="_blank">Weather App</a></h3> </header>
+    <header><h3>Weather App</h3> </header>
     <div id="wrapper">
     <h3>Your location:</h3>
     <p id="location"></p>
